@@ -1,7 +1,7 @@
 import React from "react";
 
 function Cards(){
-    return  <div className="content mx-auto col-11 col-md-10" id="portfolio" style={{position: "relative", bottom: "70px"}}>
+    return  <div className="content mx-auto col-11 col-md-10" id="portfolio" style={{position: "relative", bottom: "40px"}}>
     <div className="container">
         <div className="row d-flex justify-content-center">
             <div className="project col-12 col-md-6 col-lg-4">
